@@ -1,0 +1,7 @@
+{"level":"error","status":404}
+{"level":"error","status":404}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","status":404}
+{"errors":[{"location":"body","msg":"Name is required","path":"name","type":"field"},{"location":"body","msg":"Invalid email","path":"email","type":"field"}],"level":"error","status":400}
+{"errors":[{"location":"body","msg":"Name is required","path":"name","type":"field"},{"location":"body","msg":"Invalid email","path":"email","type":"field"}],"level":"error","status":400}
